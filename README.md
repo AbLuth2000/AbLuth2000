@@ -34,13 +34,13 @@ I'm Abhyuday, currently an **AI and automation engineer** at Heroes Technology -
 - [**PetVentures**](https://github.com/AbLuth2000/Veed-Hackathon-2025)
   Social media app for generating and sharing documentary-style shorts of pets - VEED 2025 hackathon submission.
   
-- [**Void Genesis**](https://github.com/yourusername/starkware-project)
+- [**Void Genesis**](https://github.com/AbLuth2000/Encode-AI-Hackathon-2025-Void-Genesis)
   Multiplayer on-chain game inspired by *Minecraft* and *Monopoly*, AI-generated 3D assets through Portia AI in rendered in Three.js with backend Starknet integration - Encode AI 2025 submission Starkware bounty winner.
 
 - [**SQL AI Agent**](https://github.com/AbLuth2000/sql-ai-agent)
   Proof of concept for an AI SQL agent that can generate and execute SQL queries based on natural language.
 
-- [**Careguide**](https://github.com/yourusername/healthily-project)  
+- [**Careguide**](https://github.com/AbLuth2000/Encode-AI-Hackathon-2024)  
   AI chatbot with sentiment analysis and accessibility features to reduce GP workload - Encode AI 2024 submission Healthily bounty winner.
 
 ---
